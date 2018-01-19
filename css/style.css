@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    color: #4CA6A6;
+    background-image: url("../image/green1.jpg")
+}
+
+#error_para {
+    visibility: hidden;
+}
+
+#form-id {
+    border: solid 2px #4CA6A6;
+    padding: 50px;
+    text-align: left;
+    box-shadow: 5px 10px 18px #4CA6A6;
+    background-color: white;
+    margin-top: 15px;
+}
+
+#succees_para {
+    visibility: hidden;
+}
+
+#icon {
+    display: inline-block;
+}
+
+.btn-primary {
+    background-color: #4CA6A6;
+    color: white;
+    border: none
+}
+
+#hh {
+    float: left;
+    margin-top: 20px;
+}
+
+footer {
+    color: black;
+}
